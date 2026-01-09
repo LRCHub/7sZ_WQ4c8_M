@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マザーデイズ",
+  "base_artist": "Chinozo",
+  "createdAt": "2026-01-09T14:55:16.831453Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マザーデイズ",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/pl_01_マザーデイズ_Chinozo.txt"
+    }
+  ]
+}
